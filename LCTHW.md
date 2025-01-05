@@ -11,7 +11,7 @@ Learn C the hard way
 	up:/*
 	https://space.bilibili.com/24014925
 	*/
-之后可以看（还没有看：
+
   /*  南方科技大学计算机系于仕琪副教授 
 --->makefile
 	https://www.bilibili.com/video/BV188411L7d2?spm_id_from=333.788.recommend_more_video.-1&vd_source=9a1b02760e5d5176081d05f5537d605e
